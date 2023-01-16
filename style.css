@@ -1,0 +1,9 @@
+button {
+    border: 3px black solid;
+    color: black;
+    background-color: lightblue;
+    
+}
+button:hover {
+    transition-duration: 0.7;
+}
